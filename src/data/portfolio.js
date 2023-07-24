@@ -11,7 +11,7 @@ export default [
       "MongoDB",
       "Socket.IO",
     ],
-    link: "/",
+    link: "https://chit-chat-07vo.onrender.com",
     githubRep: "",
   },
   {
