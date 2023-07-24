@@ -51,7 +51,7 @@ function PortfolioItem({ title, imgUrl, stack, link, githubRep }) {
             </span>
           ))}
 
-          <a>
+          <a href={githubRep} target="_blank" rel="noreferrer noopener">
             <span
               className="inline-block px-2
                     py-1 font-semibold border-2 border-stone-900 
