@@ -12,14 +12,14 @@ export default [
       "Socket.IO",
     ],
     link: "https://chit-chat-07vo.onrender.com",
-    githubRep: "",
+    githubRep: "https://github.com/sabr-1/Chit-Chat.git",
   },
   {
     title: "Portfolio Website",
     imgUrl: "/assets/portfolio_website.png",
     stack: ["React", "Vite", "Tailwind"],
     link: "https://sameer-iiita.netlify.app/",
-    githubRep: "",
+    githubRep: "https://github.com/sabr-1/Personal-Portfolio-Website.git",
   },
   {
     title: "Attendance System",
